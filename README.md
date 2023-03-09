@@ -1,0 +1,3 @@
+# GIT PRACTICE
+
+깃 연습
